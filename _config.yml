@@ -1,9 +1,9 @@
 # Site
-name: "Memoirs"
-title: "Memoirs"
-description: "I will take you on the fabulous world of exploration. Travel, culture, lifestyle. Eat, Pray, Love!"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+name: "Cyrille Courtière - Sailing"
+title: "Cyrille Courtière - Sailing"
+description: "Je vous partage mes aventures en Mini !"
+logo: 'assets/images/boat-small-02.svg'
+favicon: 'assets/images/boat-small-02.svg'
 google_analytics: 'UA-xxxxxxxx-1'
 include: ["_pages"]
 permalink: /:title/
@@ -12,10 +12,11 @@ email: cyrille.courtiere@gmail.com
 # Authors
 authors:
   cyrille:
-    name: Cyrille
+    name: Cyrille Courtière
     display_name: Cyrille
-    avatar: 'assets/images/avatar-sal.png'
-    email: cyrille.courtiere@gmail.com
+    avatar: assets/images/portrait-cyrille-small-2.jpeg
+    linkedin: https://www.linkedin.com/in/ccyrille/
+    email: cyrille.courtiere+sailingb@gmail.com
 
 # Plugins
 plugins:

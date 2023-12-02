@@ -2,9 +2,11 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-<link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
+<link rel="icon" href="{{ site.baseurl }}/{{ site.favicon }}" type="image/x-icon">
+<link rel="shortcut icon" href="{{ site.baseurl }}/{{ site.favicon }}" type="image/x-icon">
 
 <title>{{ page.title }} | {{site.name}}</title>
 
@@ -15,6 +17,21 @@
 <link href="{{ site.baseurl }}/assets/css/theme.css" rel="stylesheet">
 
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>
+
+<!-- Custom fonts -->
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lobster">
+
+{% if page.custom_js %}
+    {% for js_file in page.custom_js %}
+        <script type="text/javascript" src="{{ js_file }}"></script>
+    {% endfor %}
+{% endif %}
+
+{% if page.custom_styles %}
+    {% for style_file in page.custom_styles %}
+        <link href="{{ style_file }}" rel="stylesheet">
+    {% endfor %}
+{% endif %}
 
 </head>
 
@@ -39,7 +56,7 @@
 	</noscript>
 
 <!-- Begin Sidebar Navigation
-================================================== -->
+================================================== 
 
 <div class="sidebar">    
 </div>   
@@ -49,15 +66,14 @@
 <div id="blackover-nav" class="blackover"></div>
 <nav id="menu">
     <ul>
-        <h3>Navigation</h3>
-        <li><a href="{{ site.baseurl }}/">Home</a></li>
-        <li><a href="{{ site.baseurl }}/about">About</a></li>
+        <h3>Nav 🧭</h3>
+        <li><a href="{{ site.baseurl }}/">Accueil</a></li>
+        <li><a href="{{ site.baseurl }}/about">À propos</a></li>
         <li><a href="{{ site.baseurl }}/contact">Contact</a></li>       
     </ul>   
 </nav>
 
 {% include search-lunr.html %}
-
 
 <!-- End Sidebar Navigation
 ================================================== -->
@@ -67,14 +83,13 @@
 <div class="container">
 
     <!-- Site Logo/Name
-    ================================================== 
+    ==================================================
    
     <a class="navbar-brand" href="{{ site.baseurl }}/">
         <img src="{{ site.baseurl }}/{{ site.logo }}" alt="{{ site.name }}">
     </a>  
 
     -->
-   
 
     <!-- Site Tag
     ================================================== -->
@@ -136,7 +151,7 @@
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
 {% endif %}
 
-{% if page.layout == 'post' %}
+{% if page.layout == 'post' and page.comments != false %}
 <script id="dsq-count-scr" src="//{{site.disqus}}.disqus.com/count.js"></script>
 {% endif %}
 

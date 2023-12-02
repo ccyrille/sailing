@@ -1,0 +1,13 @@
+.sitetag, .posttitle {
+    font-family: 'Lobster', serif;
+}
+
+.img-thumb, .featured-image {
+    filter: saturate(var(--value, 5)); --value: 1.2;
+}
+
+.legend {
+    text-align: center; 
+    font-size: 14px;
+    font-style: italic;
+}
