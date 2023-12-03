@@ -1,13 +1,20 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: Qui suis-je ?
 permalink: /about
 comments: false
-image: assets/images/screenshot.jpg
-imageshadow: true
+image: assets/images/portrait-cyrille-2-rounded.png
+
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+Ingénieur engagé dans la tranition écologique depuis 2011, j'ai fondé <a href="https://www.klaxit.com/" target="_blank">Klaxit</a> qui est devenu leader du covoiturage domicile-travail et a été acquis par BlaBlaCar. Après 10 ans de cette aventure aussi riche que passionnante, il était temps pour moi d'explorer de nouveaux horizons ! 
 
-<a target="_blank" href="https://bootstrapstarter.com/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+La voile a toujours été pour moi une passion. Dès l'âge de 5 ans, mes parents m'ont mis sur un bateau. Toute ma jeunesse j'ai eu la chance de naviguer sur la côte Atlantique et en Méditérranée. Puis je me suis engagé sur des régates en J80, notamment le Grand Prix du Crouesty et le Spi Ouest. 
 
+En 2023, je me lance dans l'aventure de la **Mini Transat 2025**, une course transatlantique à la voile, en solitaire et sans assistance.
+
+<div style="width: 100% !important" >
+<video style="width: 100% !important" autoplay="" loop="" muted="" playsinline="" poster="https://static.s123-cdn-static.com/uploads/4985860/normal_6058c88e6733e-thumbnail.jpg">
+    <source type="video/mp4" src="https://cdn-media.f-static.net/uploads/4985860/normal_6058c88e6733e.mp4">
+</video>
+</div>

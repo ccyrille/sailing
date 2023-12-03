@@ -1,3 +1,13 @@
+.center {
+    text-align: center;
+}
+
+.legend {
+    text-align: center; 
+    font-size: 14px;
+    font-style: italic;
+}
+
 .sitetag, .posttitle {
     font-family: 'Lobster', serif;
 }
@@ -6,8 +16,6 @@
     filter: saturate(var(--value, 5)); --value: 1.2;
 }
 
-.legend {
-    text-align: center; 
-    font-size: 14px;
-    font-style: italic;
-}
+
+
+
