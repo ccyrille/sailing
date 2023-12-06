@@ -18,7 +18,7 @@ Juin 2023, je viens de décider de m'engager dans un projet Mini ⛵
 
 ![]({{ site.baseurl }}/assets/images/mini-transat-1.jpg)
 
-**Et la Mini Transat ?** Une course transatlantique à la voile sur Mini, en solitaire et sans assistance. Organisée chaque deux ans depuis 1977, Elle a vu naître les plus grands skippers tels que Michel Desjoyeaux, Ellen MacArthur et Yannick Bestaven. « C'est la Mini Transat qui m'a donné le goût du large. Je ne l'oublierai jamais » disait Ellen MacArthur.
+**Et la Mini Transat ?** Une course transatlantique à la voile sur Mini, en solitaire et sans assistance. Organisée chaque deux ans depuis 1977, Elle a vu naître les plus grands skippers tels que Michel Desjoyeaux, Ellen MacArthur et Yannick Bestaven. <i>« C'est la Mini Transat qui m'a donné le goût du large. Je ne l'oublierai jamais »</i> disait Ellen MacArthur.
 
 ![]({{ site.baseurl }}/assets/images/mini-transat-2.jpg)
 
@@ -33,16 +33,18 @@ Juin 2023, je viens de décider de m'engager dans un projet Mini ⛵
 Car avant de pouvoir atteindre le « graal », c'est un vrai parcours du combattant :
 * **Se former** aux nombreux savoir-faires indispensables pour une telle aventure.
 * **S'entraîner** pour acquérir le physique et les automatismes qui resteront même après plusieurs jours de mer, à peu dormir et manger sur le pouce.
-* **Participer aux courses, et les finir dans les temps,** soit au moins 3 courses qui prennent entre 7j et 1.5 mois, chaque année pendant 2 ans !
+* **Participer aux courses, et les finir dans les temps,** soit au moins 3 courses qui prennent entre 7j et 1 mois, chaque année pendant 2 ans !
 * **Faire sa "qualif"**, un tour de 1000MN (1800km+) sans escale et en totale autonomie pendant 6-12 jours, entre l'Île de Ré et le Sud de l'Irlande 👇 
 <div id="map" style="height: 400px"></div>
 <div class="legend">Parcours de qualification AKA « la qualif »</div>
 
-Sans oublier la structuration et la communication autour du projet 😉
+Sans oublier la structuration et la communication autour du projet !
 
 **Et tu fais ça tout seul ?** Non, j'ai intégré le <a href="https://laturballecourseaularge.com/" target="_blank">pôle de Course au Large de la Turballe</a>. Nous sommes 25 skippers au pôle à nous entraîner et nous entraider... une vraie équipe ! En plus de l'indispensable soutien de ma chérie Valentina Grampa ❤️
 
-La suite très vite !
+En lecteur attentif, vous n'aurez pas manqué de noter l'écart entre cette publication et l'avancement du projet alors...
+
+La suite très vite 😉
 
 <script>
 mapboxgl.accessToken = 'pk.eyJ1IjoiY3lyaWxsZWMiLCJhIjoiY2xwbWlwMjAwMDlmdzJsbXM0aGZ4eTlpdSJ9.0aNLOUJ5iSmRB2i10PtWDQ';
