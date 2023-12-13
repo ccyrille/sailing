@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Episode 0 - Le projet"
+title:  "Mon projet Mini"
 author: cyrille
 tags: [ Aventure Mini ]
 image: assets/images/classe-mini-650-1.jpg
