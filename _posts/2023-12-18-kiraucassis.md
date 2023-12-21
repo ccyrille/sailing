@@ -73,7 +73,7 @@ Après réflexion, je me dis que je ne pourrai pas dédier plus de 4 jours par m
 
 Au-delà de la différence de stylistique, le nez « scow » rend surtout le Maxi 650 beaucoup plus vivable que le Pogo 3, surnommé "le sous-marin" tant il mouille les humains qu'il embarque ! Ça peut sembler un détail mais je vous laisse imaginer l'état du skipper après plusieurs jours de course <a href="https://www.facebook.com/watch/?v=416430393095968&t=22" target="_blank">comme ça</a>...
 
-En juillet 2023, après une vingtaine de jours de recherches intensives, je vais essayer à la Turballe un Maxi 650, le Mini FRA 1014, nom de baptême « KIR AU CASSIS ». Il fini 8e du championnats de France 2023 avec son skipper précédent, Pierre-Emmanuel. 
+En juillet 2023, après une vingtaine de jours de recherches intensives, je vais essayer à la Turballe un Maxi 650, le Mini FRA 1014, nom de baptême « KIR AU CASSIS ». Il finit 8e du championnats de France 2023 avec son skipper précédent, Pierre-Emmanuel. 
 
 Le 1014 est aussi un bateau bien préparé et fiabilisé, puisqu'il a à son actif <a href="https://www.classemini.com/?mode=bateaux&id_bateau=1043">une vingtaine de courses</a> dont la Mini Transat 2021. Ça peut paraître un détail, mais la préparation du bateau prend un temps fou et demande une grosse expertise, je vous en reparlerai.
  
