@@ -9,13 +9,13 @@ comments: false
 
 Chaque 2 semaines sur le weekend, je m'entraîne avec le pôle de La [Turballe Course Au Large](https://laturballecourseaularge.com/). L'objectif des entraînements est de se perfectionner aux manoeuvres et aux différentes phases de course (préparation nav, départ, passage de bouées, etc.).
 
-Un weekend d'entraînement type est composé d'exercices très rythmés et d'une régate en parcours côtier. Nous sommes en général une petite dizaine de bateaux sur l'eau. On peut choisir de faire les entraînements en simple ou en double.
+Un weekend d'entraînement type est composé d'exercices très rythmés le samedi et d'une régate en parcours côtier le dimanche. Nous sommes en général une petite dizaine de bateaux sur l'eau. On peut choisir de faire les entraînements en simple ou en double.
 
 # L'échauffement
 
 Une session d'entraînement débute toujours par un « échauffement miroir ». 
 
-Les bateaux se groupent en paires et progressent de manière synchronisée vers le vent, en faisant des virements de bord. C'est le bateau situé à gauche de plan d'eau (« tribord amure » au départ) qui donne le rythme. À chaque fois qu'il effectue un virement de bord l'autre bateau doit faire de même.
+On se groupe en paires et on progresse de manière synchronisée vers le vent, en faisant des virements de bord. C'est le bateau situé à gauche de plan d'eau qui donne le rythme. À chaque fois qu'il effectue un virement de bord l'autre bateau doit faire de même.
 
 <img src="/assets/images/echauffement-miroir.jpg" width="350px" alt="échauffement en miroir"/>
 
@@ -23,7 +23,7 @@ On revient ensuite vent dans le dos pour recommencer l'exercice 2-3 fois. Cet ex
 
 # Le parcours banane
 
-Le « parcours banane » est LE grand classique de la régate. Il en existe plusieurs variantes mais pour nos entraînements nous utilisons en général le plus simple (départ/arrivée à la ligne, pas de dog-leg).
+Le « parcours banane » est LE grand classique de la régate. Il en existe plusieurs variantes mais pour nos entraînements nous utilisons en général le plus simple (pour les connaisseurs : départ/arrivée à la ligne + pas de [dog leg](https://xrevil.wordpress.com/2009/01/14/parcours-types-en-regate-de-catamaran-de-sport/) => attention à la bouée !).
 
 <img src="/assets/images/parcours-banane-simple.jpg" width="350px" alt="parcours banane"/>
 
@@ -44,6 +44,12 @@ Les bateaux s'alignent vent de travers pour démarrer à égalité par rapport �
 Sur un weekend d'entraînement, on fera au moins une régate en parcours côtier. On est ici sur un exercice qui se rapproche de ce que l'on fera en course : quelques dizaines de milles pour mettre en application les apprentissages et se disputer la victoire du jour 🏆
 
 ![](/assets/images/20231031.jpg)
+<div class="legend">La bagarre au près</div>
+
+![](/assets/images/entrainements-exemple-parcours.jpg)
+
+<div class="legend">Planification <a href="https://www.navionics.com/fra/apps/navionics-boating" target="_blank">Navionics boating</a> et de trace AIS <a href="https://www.marinetraffic.com/"  target="_blank">Marine-traffic</a> de parcours côtiers</div>
+
 
 Et les bords s'allongeant, c'est aussi l'occasion d'expérimenter la vie à bord !
 
