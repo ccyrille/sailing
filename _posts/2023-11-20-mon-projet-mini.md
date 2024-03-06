@@ -57,7 +57,7 @@ const map = new mapboxgl.Map({
 });
 
 // Generated using https://labs.mapbox.com/bezier-curves/
-// Coninberg Buoy (52.0533,-6.64278)
+// Coningbeg Buoy (52.0533,-6.64278)
 // Ile-de-Ré bridge (46.1727, -1.2405)
 // Plateau de Rochebonne (46.18880, -2.45498)
 
@@ -146,7 +146,7 @@ map.on('load', () => {
     });
 
     const markers = [
-        ['Cardinale de Coninberg',52.0533,-6.64278, '{{ site.baseurl }}/assets/images/marker-target.png'],
+        ['Cardinale de Coningbeg',52.0533,-6.64278, '{{ site.baseurl }}/assets/images/marker-target.png'],
         ['Ile-de-Ré',46.17360, -1.3386, '{{ site.baseurl }}/assets/images/marker-target.png'],
         ['Plateau de Rochebonne',46.18880,-2.45498, '{{ site.baseurl }}/assets/images/marker-target.png']
     ]
