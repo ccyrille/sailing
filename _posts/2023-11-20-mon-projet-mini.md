@@ -34,7 +34,7 @@ Car avant de pouvoir atteindre le « graal », c'est un vrai parcours du combatt
 * **Se former** aux nombreux savoir-faires indispensables pour une telle aventure.
 * **S'entraîner** pour acquérir le physique et les automatismes qui resteront même après plusieurs jours de mer, à peu dormir et manger sur le pouce.
 * **Participer aux courses, et les finir dans les temps,** soit au moins 3 courses qui prennent entre 7j et 1 mois, chaque année pendant 2 ans !
-* **Faire sa "qualif"**, un tour de 1000Nm (1800km+) sans escale et en totale autonomie pendant 6-12 jours, entre l'Île de Ré et le Sud de l'Irlande 👇 
+* **Faire sa "qualif"**, un tour de 1000Nm (1852km) sans escale et en totale autonomie pendant 6-12 jours, entre l'Île de Ré et le Sud de l'Irlande 👇 
 <div id="map" style="height: 400px"></div>
 <div class="legend">Parcours de qualification AKA « la qualif »</div>
 
@@ -74,13 +74,8 @@ function  addMarker(marker, map){
         (error, image) => {
             if (error) throw error;
 
-            console.log(id);
-
             const imgId = 'custom-marker-' + uuidv4();
             map.addImage(imgId, image);
-            
-            // Add a GeoJSON source with 2 points
-            console.log(marker[2]);
 
             map.addSource(id, {
                 'type': 'geojson',
