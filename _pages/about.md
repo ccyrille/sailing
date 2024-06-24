@@ -3,7 +3,7 @@ layout: page
 title: Qui suis-je ?
 permalink: /about
 comments: false
-image: assets/images/portrait-cyrille-2-rounded.png
+image: assets/images/portrait-cyrille-3-rounded.png
 
 ---
 
