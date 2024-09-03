@@ -11,7 +11,7 @@ Ingénieur engagé, j'ai à coeur de porter des projets qui expriment mon engage
 
 La voile a toujours été pour moi une passion. Dès l'âge de 5 ans, mes parents m'ont mis sur un bateau. Toute ma jeunesse j'ai eu la chance de naviguer sur la côte Atlantique et en Méditérranée. Puis je me suis engagé sur des régates en J80, notamment le Grand Prix du Crouesty et le Spi Ouest. 
 
-En 2023, je me lance dans l'aventure de la **Mini Transat 2025**, une course transatlantique à la voile, en solitaire et sans assistance.
+En 2023, je deviens Skipper sur le **circuit Mini 6.50**, qui prépare à la Mini Transat.
 
 <div style="width: 100% !important" >
 <video style="width: 100% !important" autoplay="" loop="" muted="" playsinline="" poster="https://static.s123-cdn-static.com/uploads/4985860/normal_6058c88e6733e-thumbnail.jpg">
